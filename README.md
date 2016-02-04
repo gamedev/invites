@@ -1,5 +1,8 @@
-invites
+Invites
 =======
 
-file an issue to sign in to the organization. 
-once we sign you in, [enable your profile visibility](https://github.com/orgs/gamedev/people)
+File an issue to sign in to the organization. 
+Once we sign you in, [enable your profile visibility](https://github.com/orgs/gamedev/people)
+
+### Chat room
+Come here!  https://discord.gg/0nRFNmjNlkeH1efx
